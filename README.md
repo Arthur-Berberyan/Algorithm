@@ -17,12 +17,8 @@ Here's a list of available data structures and algorithms in this repository:
 - [HashTable](./HashTable/README.md)
 - [Priority Queue](./priority_queue/README.md)
 - [Quadruple List](./Quadruple_list/README.md)
-- [ThreadPool](./Thread_Pool/README.md)
-- [GTree](./GTree/README.md) 
 - [Forward-List](./Forward-List/README.md)
-- [Caching-Algorithms](./Caching-Algorithms/README.md)
 - [Bit-Set](./Bit-Set/README.md)
-- [Block-Array](./Block-Array/README.md)
 - [Queue](./Queue/README.md)
 
 ## How to Use
